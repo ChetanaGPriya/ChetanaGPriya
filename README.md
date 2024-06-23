@@ -1,4 +1,4 @@
-[![MasterHead](https://ioe.engin.umich.edu/wp-content/uploads/sites/7/2021/06/RESIZED_IOE-Masters_-Data-Analytics-and-Applied-Statistics.jpg)]
+![MasterHead](https://ioe.engin.umich.edu/wp-content/uploads/sites/7/2021/06/RESIZED_IOE-Masters_-Data-Analytics-and-Applied-Statistics.jpg)
 <h1 align="center">Hi 👋, I'm Chetana Priya</h1>
 <h3 align="center">I'm an Aspiring Data Analyst based in United States</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <imgsrc="https://komarev.com/ghpvc/?
