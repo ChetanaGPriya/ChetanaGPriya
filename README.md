@@ -11,6 +11,8 @@ username=chetanagpriya&label=Profile%20views&color=0e75b6&style=flat" alt="cheta
 
 - 👨‍💻 I'm graduated with Bachelor's degree in **Computer Science** from Andhra University
   
+- I have a deep passion for technology and data. Throughout my academic and professional journey, I have engaged in numerous exciting projects and gained diverse experiences. I am consistently eager to learn and leverage my skills to address real-world challenges. Whether it’s analyzing complex data sets or developing innovative solutions, I am motivated by a strong drive to harness technology and data to create a positive impact.
+  
 - 👨‍💻 All of my projects are available at [https://github.com/ChetanaGPriya](https://github.com/ChetanaGPriya)
 
 - 📫 How to reach me **chetanag.work@gmail.com**
